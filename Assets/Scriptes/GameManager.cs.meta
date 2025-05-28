@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 27a66678c2c0a2b438d70318e928a281
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dronePrefab: {fileID: 8929348385265214361, guid: fe5f620a35ec0f049a5aa932134dad09, type: 3}
+  - resourcePrefab: {fileID: 4620723457358293705, guid: b8dab0380ab2b6b4f998044a87653dce, type: 3}
+  - blueBasePrefab: {fileID: 8711804847694168362, guid: 3dcf4562b34cf4f46b4d0c46108df075, type: 3}
+  - redBasePrefab: {fileID: 8711804847694168362, guid: 3dcf4562b34cf4f46b4d0c46108df075, type: 3}
+  - droneCountSlider: {instanceID: 0}
+  - droneSpeedSlider: {instanceID: 0}
+  - resourceSpawnRateInput: {instanceID: 0}
+  - showPathToggle: {instanceID: 0}
+  - blueScoreText: {instanceID: 0}
+  - redScoreText: {instanceID: 0}
+  - droneCountText: {instanceID: 0}
+  - droneSpeedText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
